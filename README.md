@@ -1,4 +1,4 @@
-# RUSiliconGit
+Suha
 
 The online version of the slides: https://docs.google.com/presentation/d/1kw0jEt3xI7kxJ09W8S3oIcTMBNmoxf9pCBgXB4Qgy74/edit?usp=sharing
 
